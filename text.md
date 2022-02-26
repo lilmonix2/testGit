@@ -21,3 +21,4 @@ $$
 
 Test stage area's file
 
+Test to use branch dev
