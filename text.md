@@ -19,6 +19,6 @@ $$
 
 > Add something new as the content!
 
-Test stage area's file
 
-Test to use branch dev
+
+I'm testing --no-ff merge!
