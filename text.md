@@ -1,7 +1,5 @@
 Randomly write something 
 
-bugfix在这里修改了bug
-
 Write your code here:
 
 ```c
@@ -26,3 +24,5 @@ $$
 I'm testing --no-ff merge!
 
 随便写点啥。。。
+
+1111111
