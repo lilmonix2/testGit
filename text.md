@@ -18,3 +18,6 @@ y=ce^x
 $$
 
 > Add something new as the content!
+
+Test stage area's file
+
