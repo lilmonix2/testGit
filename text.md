@@ -23,6 +23,14 @@ $$
 
 I'm testing --no-ff merge!
 
+<<<<<<< HEAD
 随便写点啥。。。
 
 1111111
+=======
+Stash!!!!!!!!!
+
+reStash!
+
+ooooooooooooooooo
+>>>>>>> dev
